@@ -83,13 +83,13 @@ Estoy en constante capacitación y aprendizaje de nuevas tecnologías.
 <br/>  
 
 
-## Github Stats  
+
   
 
 <br/>  
 
 
-## Recent Blog Posts  
+
   
 
 <br/>  
