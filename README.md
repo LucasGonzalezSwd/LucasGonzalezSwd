@@ -17,7 +17,7 @@ Estoy en constante capacitación y aprendizaje de nuevas tecnologías.
 <br/>  
 
 
-## My Skill Set  
+## Tecnologias con las que trabajo  
 <table><tr><td valign="top" width="33%">
 
 
@@ -67,7 +67,7 @@ Estoy en constante capacitación y aprendizaje de nuevas tecnologías.
 <br/>  
 
 
-## Connect with me  
+  
 
 
 ### Dejo mi contacto para cualquier tipo de consulta.  
