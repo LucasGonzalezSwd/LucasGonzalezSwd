@@ -1,9 +1,7 @@
 
 
 ### Hola! Mi nombre es Lucas Gonzalez.  
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center"></div>  
