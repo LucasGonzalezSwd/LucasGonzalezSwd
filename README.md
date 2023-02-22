@@ -11,7 +11,7 @@
 Estoy en constante capacitación y aprendizaje de nuevas tecnologías.   
   
 
-- ⚡ Me siento cómodo trabajando en equipo, cuento con un aprendizaje ágil, soy autodidacta , responsable, me adapto a los cambios, siempre me mantengo positivo y pienso que con perseverancia y siendo constantes todos podemos llegar a nuestro objetivo.  
+- ⚡ Me siento cómodo trabajando en equipo, cuento con un aprendizaje ágil, soy autodidacta , responsable, me adapto a los cambios, siempre me mantengo positivo y pienso que con perseverancia y siendo constantes todos podemos llegar a nuestros objetivos.  
   
 
 <br/>  
