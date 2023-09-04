@@ -7,7 +7,7 @@
 ### <div align="center"></div>  
   
 
-- 🤖 Soy Desarrollador Web Full Stack egresado del Bootcamp de Soy Henry, tengo mas afinidad hacia el Front-end.
+- 🤖 Soy Desarrollador Web Full Stack egresado del Bootcamp de Soy Henry.
 Estoy en constante capacitación y aprendizaje de nuevas tecnologías.   
   
 
